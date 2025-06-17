@@ -2,7 +2,6 @@
 
 This repository provides starter code and samples for programming the Fetch mobile manipulator to pick requested items from densely packed shelves. It is used in the following University of Washington courses:
 
-- [CSE 481 C: Robotics Capstone](https://sites.google.com/cs.washington.edu/cse481csp22/home)
 - [TECHIN 517: Robotics Lab II](https://sites.google.com/cs.washington.edu/techin517sp22/home)
 
 Labs and other documentation are available on the [wiki](https://github.com/robotic-picker-sp22/fetch-picker/wiki).
@@ -44,7 +43,7 @@ Add these lines to your `~/.bashrc` (the script does this automatically):
 
 ```bash
 source /opt/ros/noetic/setup.bash
-source ~/Downloads/fetch_ws/devel/setup.bash
+source ~/fetch_ws/devel/setup.bash
 ```
 
 ### 4. Using Dev Containers (Optional)
