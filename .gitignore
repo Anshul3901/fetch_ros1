@@ -1,0 +1,21 @@
+# OS and editor files
+.DS_Store
+*~
+
+# Build and development folders
+build/
+devel/
+logs/
+.catkin_tools/
+
+# ROS bag files
+*.bag
+
+# VSCode settings (optional, comment out if you want to share)
+.vscode/
+
+# Python bytecode
+*.pyc
+
+# CMake build folders
+cmake*/ 
